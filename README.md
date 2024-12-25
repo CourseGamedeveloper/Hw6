@@ -51,3 +51,4 @@ public class Escaper : MonoBehaviour {
         transform.position = Vector3.MoveTowards(transform.position, targetPosition, moveSpeed * Time.deltaTime);
     }
 }
+### link to the game: https://ibrahem-hurani.itch.io/enemy-escape
